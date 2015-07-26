@@ -18,6 +18,7 @@ Command line arguments:
     -img                    the input image file
     -kp 					the input region file 
 	-des 					the output descriptor file
+	-type       [2]			0 for detection, 1 for description, 2 for both detection and description.
 	-blobThresh	[40.0]		the threshold of FRIF detector
 	-border		[50]		the border of image
 	-supLine	[1]			do the line suppression or not

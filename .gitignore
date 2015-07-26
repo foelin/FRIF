@@ -1,0 +1,4 @@
+FRIF
+*.o
+data/*.frif*
+data/*.key*
